@@ -5,24 +5,29 @@ BTYoutube (or BTYT) ports a better design and a Spotlight search remake to youtu
 ## How to Install
 
 - step 1
+
 download the source code by going under ``code`` and clicking ``download ZIP``
 
 ![](assets/download.png)
 
 - step 2
+
 then go to `chrome://extensions` and enable ``developer mode``
 
 ![](assets/DevMode.png)
 
 - step 3
+
 click ``load unpacked``
 
 ![](assets/LoadUnpkgd.png)
 
 - step 4
+
 lastly just select ``BTYoutube`` and reload youtube.
 
 - finished installing
+
 **now you have ``BTYoutube`` installed!**
 
 ## Alternatively through terminal
