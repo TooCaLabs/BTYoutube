@@ -50,7 +50,7 @@ BTYT="path_to_BTYoutube_folder_here"
 run
 
 ```bash
-open -a "Google Chrome" --args --load-extension="$BTYT"
+open -a "your_browser" --args --load-extension="$BTYT"
 ```
 
 - step 3
